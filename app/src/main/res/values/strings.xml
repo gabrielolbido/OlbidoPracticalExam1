@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Practical Exam #1</string>
+    <string name="pdname">Product Name: Logitech G102</string>
+    <string name="pdtype">Product Type: Gaming Mouse</string>
+    <string name="deltime">Delivery Time: 1-5 Days</string>
+    <string name="color">Color: Black/RGB Lighting</string>
+    <string name="promo">7 DAYS EASY RETURN!</string>
+    <string name="buy">Buy Item</string>
+    <string name="cart">Add to Cart</string>
+
+</resources>
